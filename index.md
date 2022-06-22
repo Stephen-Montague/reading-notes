@@ -1,6 +1,6 @@
 ## Welcome to My Reading Notes 
 
-See Reading 2 Notes [here](markdown-basics.md).
+See Reading 1 Notes [here](markdown-basics.md).
 
 This is a "GitHub Pages" site built via the sources in this GitHub [repository](https://github.com/Stephen-Montague/reading-notes/) with a style theme from  [Jekyll](https://jekyllrb.com/) to learn and practic Full Stack Web Development at [Code Fellows](https://codefellows.org/).  
 
