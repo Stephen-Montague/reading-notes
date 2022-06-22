@@ -33,4 +33,4 @@ To demo more Markdown, here's a few quotes with competing ideas held by the same
 
 Just for the record, since this is a post where people may just be meeting me - I don't romanticize Patton or warfare to the degree that some have - careful balance is needed for all of our life stories.  
 
-We're all human, right?  Now, let's continue.
+We're all human, right? :robot::alien: Now, let's continue.
