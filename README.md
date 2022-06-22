@@ -21,9 +21,11 @@ To demo more Markdown, here's a few quotes that show a tension between competing
 
 **George S. Patton 1885–1945**
 
-> Take calculated risks. That is quite different from being rash. - *6 June 1944*
+> Take calculated risks. That is quite different from being rash.  
+> *6 June 1944*
 >  
-> A good plan violently executed Now is better than a perfect plan next week. - *1947*
+> A good plan violently executed Now is better than a perfect plan next week.  
+> *1947*
 
 [Oxford Quotations](https://www.oxfordreference.com/view/10.1093/acref/9780191826719.001.0001/q-oro-ed4-00016315)
 
