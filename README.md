@@ -2,7 +2,7 @@
 
 This is a "GitHub Pages" site built via source README.md on [this GitHub repository](https://github.com/Stephen-Montague/reading-notes/) with a style theme from  [Jekyll](https://jekyllrb.com/).
 
-These notes show the use of Markdown syntax, which can be used as a shortcut for formatting plain text, similar to using HTML, and in fact HTML is a subset of Markdown so the 2 are compatible. In my case, it's a decent place to start when reviewing to basics of Web Development.  While I have some experience in a number of programming languages, Full Stack development hasn't been my focus until now, so I look forward to this journey.
+These notes show the use of Markdown syntax, which can be used as a shortcut for formatting plain text, similar to using HTML, and in fact HTML is a compatible subset of Markdown. In my case, it's a decent place to start when reviewing the basics of Web Development.  While I have some experience in programming, Full Stack development hasn't been my focus until now, so I look forward to this journey.
 
 ### Growth Mindset
 
