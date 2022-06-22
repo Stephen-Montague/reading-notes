@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to My Reading Notes 
 
-You can use the [editor on GitHub](https://github.com/Stephen-Montague/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a "GitHub Pages" site built via source README.md on [this GitHub repository](https://github.com/Stephen-Montague/reading-notes/) with a style theme from  [Jekyll](https://jekyllrb.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These notes show the use of Markdown syntax, which can be used as a shortcut for formatting plain text, similar to using HTML, and in fact HTML is a subset of Markdown so the 2 are compatible. In my case, it's a decent place to start when reviewing to basics of Web Development.  While I have some experience in a number of programming languages, Full Stack development hasn't been my focus until now, so I look forward to this journey.
 
-### Markdown
+### Growth Mindset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Code Fellows follows an intense program of study and practice in coding, but in the first days, the course instructors also suggest that we make a quick assessment of our mindset - here named a "Growth Mindset."  So what is a this?  In my mind, it's finding balance in all, most likely with daily effort, to do 2 things: 
 
-```markdown
-Syntax highlighted code block
+1. Accept some limits
+2. Push some limits  
 
-# Header 1
-## Header 2
-### Header 3
+Obivously, these 2 are opposed, hence why we always need to find some healthy, happy balance.
 
-- Bulleted
-- List
+Health and happiness, action and rest... there's many things to balance, in any course of study.  
 
-1. Numbered
-2. List
+I look forward to completing the Code Fellows program with this in mind.
 
-**Bold** and _Italic_ and `Code` text
+To demo more Markdown, here's a few quotes that show a tension between competing ideas held by the same person.
 
-[Link](url) and ![Image](src)
-```
+**George S. Patton 1885–1945**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+> Take calculated risks. That is quite different from being rash. - *6 June 1944*
+>  
+> A good plan violently executed Now is better than a perfect plan next week. - *1947*
 
-### Jekyll Themes
+[Oxford Quotations](https://www.oxfordreference.com/view/10.1093/acref/9780191826719.001.0001/q-oro-ed4-00016315)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stephen-Montague/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Just for the record, since this is a post where people may just be meeting me - I don't romanticize Patton or warfare to the degree that some have - careful balance is needed for all of our life stories.  We're all human.  Now, let's continue.
