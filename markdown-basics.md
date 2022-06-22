@@ -1,9 +1,3 @@
----
-layout: page
-title: "Markdown Basics"
-permalink: /reading-notes/markdown-basics/
----
-
 Quick demo of adding a new page to a root source repo with YAML frontmatter.
 
 In other words, I added a new [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) file to my GitHub [repository](https://github.com/Stephen-Montague/reading-notes) that contains a few necessary header lines. 
