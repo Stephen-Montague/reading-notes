@@ -1,6 +1,6 @@
 layout: page
 title: "Markdown Basics"
-permalink: reading-notes/Markdown-Basics/
+permalink: /Markdown-Basics/
 
 Quick demo of adding a new page to a root source repo with YAML frontmatter.
 
