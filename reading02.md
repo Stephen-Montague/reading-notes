@@ -1,3 +1,5 @@
+### Reading 2 - A Review of Essentials
+
 So most of the readings (on using a console, introducing an IDE, and describing file systems) are a review for me.
 
 I did like this quote from our course text on "Choosing a Text Editor."
