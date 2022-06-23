@@ -1,4 +1,4 @@
-### Reading 2 - A Review of Essentials
+### Reading 2 - To Review Essentials
 
 So most of the readings (on using a console, introducing an IDE, and describing file systems) are a review for me.
 
