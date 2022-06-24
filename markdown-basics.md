@@ -1,3 +1,5 @@
+### Reading 1
+
 Quick demo of adding a new page to a root source repo.
 
 In other words, I added a new [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) file to my GitHub [repository](https://github.com/Stephen-Montague/reading-notes). 
@@ -6,4 +8,4 @@ If a classmate new to programming is browsing my site, I'd like to recommend [St
 
 At Code Fellows, we also have recommended resources, like the [textbooks](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery-dp-1118907442/dp/1118907442/ref=mt_other?_encoding=UTF8&me=&qid=) required for the next class.  I've bought my copy and look forward to digging into this more. :smirk::books: 
 
-[Back to Home Page](https://stephen-montague.github.io/reading-notes/)
+[Back to Home](https://stephen-montague.github.io/reading-notes/)
