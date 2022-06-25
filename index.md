@@ -3,6 +3,7 @@
 Notes:  
 [Reading 1](markdown-basics.md)  
 [Reading 2](reading02.md)
+[Reading 3](reading03.md)
 
 This is a "GitHub Pages" site built via the sources in this GitHub [repository](https://github.com/Stephen-Montague/reading-notes/) with a style theme from  [Jekyll](https://jekyllrb.com/) to learn and practic Full Stack Web Development at [Code Fellows](https://codefellows.org/).  
 
