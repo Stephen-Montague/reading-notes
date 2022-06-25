@@ -1,4 +1,4 @@
-Git the Basics
+### Reading 3 - Git the Basics
 
 Please let me share one warning for new Git users - Git owns and controls all tracked files, as if an OS file manager - 
 so if you attempt to remove Git from a working directory by deleting the .Git folder - it will be removed, but it will also remove 
