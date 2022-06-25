@@ -1,32 +1,27 @@
-## Welcome to My Reading Notes 
+# Welcome to My Reading Notes
 
-Notes:  
+## Notes
+
 [Reading 1](markdown-basics.md)  
 [Reading 2](reading02.md)  
 [Reading 3](reading03.md)
 
-This is a "GitHub Pages" site built via the sources in this GitHub [repository](https://github.com/Stephen-Montague/reading-notes/) with a style theme from  [Jekyll](https://jekyllrb.com/) to learn and practic Full Stack Web Development at [Code Fellows](https://codefellows.org/).  
+This is a "GitHub Pages" site built via this [repository](https://github.com/Stephen-Montague/reading-notes/) to begin Web Development at [Code Fellows](https://codefellows.org/).  While I have some experience in programming, Full Stack development hasn't been my focus until now, so I look forward to this journey.
 
-These notes show the use of Markdown syntax, which can be used as a shortcut for formatting plain text, similar to using HTML, and in fact HTML is a compatible subset of Markdown. In my case, it's a decent place to start when reviewing the basics of Web Development.  While I have some experience in programming, Full Stack development hasn't been my focus until now, so I look forward to this journey.
+## Growth Mindset
 
-### Growth Mindset
-
-Code Fellows follows an intense program of study and practice in coding, but in the first days, the course instructors also suggest that we make a quick assessment of our mindset - here named a "Growth Mindset."  So what is a this?  In my mind, it's finding balance in all, most likely with daily effort, to do 2 things: 
+Code Fellows follows an intense program of study and practice, but in the first days, we also make a quick assessment of our mindset - here named a "Growth Mindset."  So what is a this?  To me, it's finding balance in all, most likely with daily effort, to do 2 things:
 
 1. Accept some limits
 2. Push some limits  
 
-Obivously, these 2 are opposed, hence why we always need to find some healthy, happy balance.
+Obivously, these 2 are opposed, hence why we always need to find some healthy, happy balance.  Health and happiness, action and rest - there's much to balance in any course of study.  
 
-Health and happiness, action and rest... there's many things to balance, in any course of study.  
-
-I look forward to completing the Code Fellows program with this in mind.
-
-### Markdown Demo
+## Markdown Demo
 
 To demo more Markdown, here's a few quotes with competing ideas held by the same person.
 
-**George S. Patton 1885–1945**
+### George S. Patton 1885–1945
 
 > Take calculated risks. That is quite different from being rash.  
 > *6 June 1944*

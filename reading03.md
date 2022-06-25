@@ -1,30 +1,31 @@
-### Reading 3 - Git the Basics
+# Reading 3 - Git the Basics
 
-Please let me share one warning for new Git users - Git owns and controls all tracked files, as if an OS file manager - 
-so if you attempt to remove Git from a working directory by deleting the .Git folder - it will be removed, but it will also remove 
-all tracked files along with it.  This wasn't obvious to me until I tried it once on a local repo, and luckily, the working directory had backups.
+Please let me share one warning for new Git users - Git owns and controls all tracked files, as if an OS file manager -
+so if you attempt to remove Git from a working directory by deleting the .Git folder - it will be removed, but it will also remove all tracked files along with it.  This wasn't obvious to me until I tried it once on a local repo, and luckily, the working directory had backups.
 
 Moving on - this reading was a review of Git fundamentals, which I was familiar with, but the review did reinforce core concepts and syntax.
 
 Below are some of the reading topics covered so far.  Also, please forgive the quick note-taking style, as I attempt to finish this review soon and delve into new Full Stack material.
 
-Git File Status 
+Git File Status
 
 Two primary Git status types:  
+
 1. Untracked file  
 2. Tracked file  
 
-Tracked files have 3 kinds of status:  
+Tracked files have 3 kinds of status:
+
 1. Modified
-2. Staged 
-3. Comitted 
+2. Staged
+3. Comitted
 
 Install Git on Ubuntu via:  
 _sudo apt-get install git_
 
 Configure Git  
 _git config [--global] user.name "My Name"_  
-_git config [--global] user.email "MyEmail@<area>email.com"_
+_git config [--global] user.email "MyEmail@email.com"_
 
 Call git config without arguments to confirm, as below:  
 _git config user.name_
@@ -51,9 +52,10 @@ _git commit -m "Message describing commit."
 git commimt -a // Commits all, will be prompted for message._  
 
 A new local repo can also be made by cloning  
-_git clone [target] <area>[new-repo]_
+_git clone [target] [new-repo]_
 
-3 Primary Parts of a Git Repo:  
+3 Primary Parts of a Git Repo:
+
 1. Working directory (may have modified files)  
 2. Index (staged changes)  
 3. Head (the most recent commit)  
@@ -65,7 +67,7 @@ Push changes to a remote via:
 _git push origin main // This sends to target, from source._
 
 To temporarily cache local changes to a stack and revert, use:  
-_git stash_    
+_git stash_  
 Restore changes via:  
 _git stash apply_  
 
