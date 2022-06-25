@@ -10,11 +10,11 @@ Below are some of the reading topics covered so far.  Also, please forgive the q
 
 Git File Status 
 
-Two primary Git status types:
+Two primary Git status types:  
 1. Untracked file  
 2. Tracked file  
 
-Tracked files have 3 kinds of status
+Tracked files have 3 kinds of status:  
 1. Modified
 2. Staged 
 3. Comitted 
@@ -40,7 +40,7 @@ git [command] --help
 man git-command_  
 
 To make any directory into a new repo, use:  
-_git init _
+_git init_  
 
 Then stage and commit, via:  
 _git add [file-specifiers]_  
