@@ -19,14 +19,14 @@ Tracked files have 3 kinds of status:
 2. Staged 
 3. Comitted 
 
-Install Git on Ubuntu via:
+Install Git on Ubuntu via:  
 _sudo apt-get install git_
 
-Configure Git
-_git config [--global] user.name "My Name"_
-_git config [--global] user.email "MyEmail@email.com"_
+Configure Git  
+_git config [--global] user.name "My Name"_  
+_git config [--global] user.email "MyEmail@<area>email.com"_
 
-Call git config without arguments to confirm, as below:
+Call git config without arguments to confirm, as below:  
 _git config user.name_
 
 Configure a Default Text Editor
@@ -51,7 +51,7 @@ _git commit -m "Message describing commit."
 git commimt -a // Commits all, will be prompted for message._  
 
 A new local repo can also be made by cloning  
-_git clone [target] [new-repo]_
+_git clone [target] <area>[new-repo]_
 
 3 Primary Parts of a Git Repo:  
 1. Working directory (may have modified files)  
