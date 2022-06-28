@@ -17,3 +17,5 @@ It's such as pleasure to have well-though-out coding languages and resources lik
 It seems a central question creators face nowadays is not "Can we create" but "What should we create?" - at least, relating to the output of light and sound from a computer. Sometimes, we see so many special FX we begin to think scientists have nearly conquered every problem, but that is certainly not true.
 
 There's much work to be done.
+
+[Back to Home](https://stephen-montague.github.io/reading-notes/)
