@@ -7,7 +7,9 @@
 [Reading 3](reading03.md)  
 [Reading 4](reading04.md)  
 [Reading 5](reading05.md)  
-[Reading 6](reading06.md)
+[Reading 6](reading06.md)  
+[Reading 7](reading07.md)  
+[Reading 8](reading08.md)
 
 I've joined [Code Fellows](https://codefellows.org/) for the next few months to meet wonderful people and get up to speed with Full Stack Web Development, and this site is for my reading notes and serves as a place to practice.  Feel free to browse my GitHub [here](https://github.com/Stephen-Montague) or to talk about projects and other ideas [here](https://www.linkedin.com/in/stephen-w-montague/)(LinkedIn).
 
