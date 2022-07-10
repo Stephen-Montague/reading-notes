@@ -17,11 +17,13 @@
     By order - the HTML is parsed first, and sources like images are loaded asynchonously, but scripts (usually JavaScript) encountered will pause HTML parsing unless directed otherwise, and then finally, CSS is applied.
 
 3. How can you find images to add to a Website?
+
     Besides your own images, sites like Unsplash have high quality images free to use commercially, and in a draft stage, there are sites with free filler images. Google images, when set to a Creative Commons license, and sites like Wikimedia are other possible sources, but in any case, you must be careful to have the rights to publish.
 
 4. How do you create a String vs a Number in JavaScript?
+
     - Numbers use numerals and optionally decimals, like 2.
-    - Strings use single or double quotes, like "2".
+    - Strings use single or double quotes, like "2".  
 
     I tend to use double quotes to make inner quotes within a string easier to read, using inner single quotes rather than escape characters.  
 
