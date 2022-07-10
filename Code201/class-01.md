@@ -27,7 +27,7 @@
 
 5. What is a Variable and why are they important in JavaScript?
 
-Variables can store data that changes - without it, implementing any change via a script would be much more difficult or even, in practically terms, impossible.
+    Variables can store data that changes - without it, implementing any change via a script would be much more difficult, or in practical terms, impossible.
 
 ## Required - What I Want to Know More About
 
