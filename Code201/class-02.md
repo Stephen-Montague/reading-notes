@@ -47,8 +47,23 @@ h2 {
 ## Intro to JS
 
 1. What data type is a sequence of text enclosed in single quote marks?
+
+    String literal
+
 2. List 4 types of JavaScript operators.
-3. Describe a real world Problem you could solve with a Function.
+
+    Assignment, Comparison, Arithmetic, Logical
+
+3. Describe a real world problem you could solve with a function.
+
+    Real-world code is full of problems that are solved by functions, but maybe the directions here refer to a non-code situation that could be solved metaphorically by a function, like in the following snip:
+
+    ```js
+        dinner = getDinner();
+        if (dinner){
+            eat(dinner);
+        }
+    ```
 
 ## JS Conditionals
 
