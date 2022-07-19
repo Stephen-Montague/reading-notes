@@ -4,6 +4,8 @@
 
 1. Explain why we need domain modeling.
 
+    Domain modeling is like an architectural design, making our code structures logical for the problem, most likely using Object Oriented design patterns and modeling.
+
 ## HTML Table Basics
 
 1. Why should tables not be used for page layouts?
