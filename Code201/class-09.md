@@ -6,7 +6,7 @@
 
 1. Why are forms so important in web development?
 
-    Forms are how to capture and display user keyboard input.  
+    Forms are how to capture and display user input, especially from the keyboard (but also from the mouse or elsewhere), and the form element can wrap and group elements for handling via event bubbling.
 
 2. When designing a form, what are some key things to keep in mind when it comes to user experience?
 
@@ -24,14 +24,14 @@ JS Events.
 
 2. When using the addEventListener() method, what 2 arguments will you need to provide?
 
-    The event type to listen for, and a callback function, name of the function or object to call.
+    The event type to listen for, and a callback function, which is the name of the function or object to call.
 
 3. Describe the event object. Why is the target within the event object useful?
 
-    Will get back to this question.
+    The target is the lowest level element of the event that typically stores the most relevant data related to that event, such as a name, location, or value.
 
 4 .What is the difference between event bubbling and event capturing?
 
-    Will get back to this question.
+    Event bubbling is the side of event handling that JS coders tend to interact with, where events bubble from the deepest nodes to parents, responding to whatever type of event has happened to the elements on screen and their objects in code, but there is another side, which programs like the operating system tend to handle invisibly, processing the raw input before passing it to the lowest element in the bubble chain.  Both sides of handling events are accessible via JS to some degree, but again, event bubbling is the typical, default way to handle events. 
 
 [Back to Home](../index.md)
