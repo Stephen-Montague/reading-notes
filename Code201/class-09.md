@@ -1,8 +1,6 @@
 # Code 201 - Reading 9
 
-## MDN - CSS - Flexbox
-
-### HTML Forms
+## HTML Forms
 
 1. Why are forms so important in web development?
 
@@ -16,7 +14,7 @@
 
     Input box (for single line), text area (for multiple lines), button (for click / press / hover events), fieldset (for limited mutliple choice bubbles), select (typically a dropdown list menu of options) - all things we need to input any kind of data.
 
-JS Events.
+## JS Events
 
 1. How would you describe events to a non-technical friend?
 
