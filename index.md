@@ -19,7 +19,8 @@ Happy Coding.  :smiley:
 [Class 11](Code201/class-11.md)  
 [Class 12](Code201/class-12.md)  
 [Class 13](Code201/class-13.md)  
-[Class 14](Code201/class-14.md)  
+[Class 14](Code201/class-14.md)
+[Class 14b](Code201/class-14b.md)
 [Class 15](Code201/class-15.md)  
 
 ## Code 102
